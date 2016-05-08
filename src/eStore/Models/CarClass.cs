@@ -11,7 +11,7 @@ namespace eStore.Models
     {
         public CarClass()
         {
-            MenuItems = new HashSet<MenuItem>();
+            Cars = new HashSet<Car>();
         }
 
         [Key]
@@ -20,6 +20,6 @@ namespace eStore.Models
         [Required]
         [StringLength(200)]
         public string Name { get; set; }
-        public virtual ICollection<MenuItem> MenuItems { get; set; }
+        public virtual ICollection<Car> Cars { get; set; }
     }
 }

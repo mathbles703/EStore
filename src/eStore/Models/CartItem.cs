@@ -6,24 +6,24 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace eStore.Models
 {
-    public class TrayItem
+    public class CartItem
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
         [Required]
-        public int TrayId { get; set; }
+        public int CartId { get; set; }
         [Required]
-        public int MenuItemId { get; set; }
+        public int CarId { get; set; }
         [Required]
         public int Qty { get; set; }
         [Column(TypeName = "timestamp")]
         [DatabaseGenerated(DatabaseGeneratedOption.Computed)]
         [MaxLength(8)]
         public byte[] Timer { get; set; }
-        [ForeignKey("TrayId")]
-        public Tray Tray { get; set; }
-        [ForeignKey("MenuItemId")]
+        [ForeignKey("CartId")]
+        public Cart Cart { get; set; }
+        [ForeignKey("CarId")]
         public Car Car { get; set; }
     }
 }
