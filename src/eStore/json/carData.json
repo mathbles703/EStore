@@ -49,7 +49,7 @@
     "DESC": "2016 Alfa Romeo 4C. 1.7L Turbocharged, 6 speed automatic."
   },
     {
-    "ID": "CHEVYx01","CARCLASS": "MUSCLE","MAN": "Chevrolet","MOD": "Camaro Z28","YEAR": "1969",
+    "ID": "CHEVYx01","CARCLASS": "Muscle","MAN": "Chevrolet","MOD": "Camaro Z28","YEAR": "1969",
     "SEAT": "4","DOOR": "2","CYL": "8","SAFE": "7","GAS": "18.5,","HP": "430",
     "MPG": "12.5","TRAN": "Manual","GRPH": "CHEVY.jpg","COST": "29000.00",
     "MSRP": "23000.00","HAND": "2","BACK": "0",
