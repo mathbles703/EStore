@@ -16,9 +16,11 @@ namespace eStore.Models
         public string Id { get; set; }
         [Required]
         public int CarClassId { get; set; }
+        [ForeignKey("CarClassId")]
+        public CarClass CarClass { get; set; }
         [Required]
         [StringLength(20)]
-        public string Make { get; set; }
+        public string Manufacturer { get; set; }
         [Required]
         [StringLength(20)]
         public string Model { get; set; }
@@ -35,18 +37,12 @@ namespace eStore.Models
         [Required]
         public double GasolineCapacity { get; set; }
         [Required]
-        public bool Cabriolet { get; set; }
-        [Required]
         public int HorsePower { get; set; }
         [Required]
         public double MPG { get; set; }
         [Required]
-        public bool FourWheelDrive { get; set;}
-        [Required] 
         [StringLength(10)]
         public string Transmission { get; set; }
-        [Required]
-        public bool Hybrid { get; set; }
 
 
         [Required]

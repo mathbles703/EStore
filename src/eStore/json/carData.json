@@ -1,0 +1,142 @@
+﻿[
+  {
+    "ID": "BMWx01","CARCLASS": "SUV","MAN": "BMW","MOD": "X4","YEAR": "2015",
+    "SEAT": "5","DOOR": "4","CYL": "6","SAFE": "8","GAS": "17.7,","HP": "355",
+    "MPG": "21.5","TRAN": "Auto","GRPH": "BMW.jpg","COST": "45000.00",
+    "MSRP": "55000.00","HAND": "6","BACK": "3",
+    "DESC": "BMW X4 in excellent condition. Less than 200 Km."
+  },
+    {
+    "ID": "BMWx02","CARCLASS": "Coupe","MAN": "BMW","MOD": "428i","YEAR": "2016",
+    "SEAT": "4","DOOR": "2","CYL": "4","SAFE": "7","GAS": "15.8,","HP": "300",
+    "MPG": "25","TRAN": "Auto","GRPH": "BMW.jpg","COST": "56000.00",
+    "MSRP": "60000.00","HAND": "2","BACK": "1",
+    "DESC": "BMW 4 series 428i. 8 speed automatic coupe."
+  },
+    {
+    "ID": "FORDx01","CARCLASS": "Muscle","M": "Ford","MOD": "Mustang","YEAR": "1966",
+    "SEAT": "4","DOOR": "2","CYL": "8","SAFE": "4","GAS": "17.5,","HP": "325",
+    "MPG": "15","TRAN": "Manual","GRPH": "FORD.jpg","COST": "20000.00",
+    "MSRP": "29500.00","HAND": "1","BACK": "0",
+    "DESC": "1966 Ford Mustang. Modified engine w/ rebuilt transmission."
+  },
+    {
+    "ID": "PORSCHEx01","CARCLASS": "Sport","MAN": "PORSCHE","MOD": "911 GT2","YEAR": "2008",
+    "SEAT": "4","DOOR": "2","CYL": "6","SAFE": "8","GAS": "40,","HP": "530",
+    "MPG": "23.8","TRAN": "Manual","GRPH": "PORSCHE.jpg","COST": "145000.00",
+    "MSRP": "180000.00","HAND": "2","BACK": "1",
+    "DESC": "2008 Porsche GT2. Well kept w/ 3000 Km."
+  },
+    {
+    "ID": "ROVERx01","CARCLASS": "SUV","MAN": "Land Rover","MOD": "Range Rover Sport","YEAR": "2014",
+    "SEAT": "5","DOOR": "4","CYL": "6","SAFE": "8","GAS": "27.7,","HP": "340",
+    "MPG": "19.5","TRAN": "Auto","GRPH": "LANDROVER.jpg","COST": "50000.00",
+    "MSRP": "65000.00","HAND": "3","BACK": "3",
+    "DESC": "2014 Range Rover Sport. 8 speed automatic w/ 4-wheel drive."
+  },
+    {
+    "ID": "AUDIx01","CARCLASS": "Coupe","MAN": "Audi","MOD": "A5","YEAR": "2016",
+    "SEAT": "4","DOOR": "2","CYL": "4","SAFE": "7","GAS": "40,","HP": "230",
+    "MPG": "25.5","TRAN": "Manual","GRPH": "AUDI.jpg","COST": "50000.00",
+    "MSRP": "60000.00","HAND": "6","BACK": "3",
+    "DESC": "BMW X4 in excellent condition. Less than 200 Km."
+  },
+    {
+    "ID": "ALFAx01","CARCLASS": "Sport","MAN": "Alfa Romeo","MOD": "4C","YEAR": "2016",
+    "SEAT": "4","DOOR": "2","CYL": "4","SAFE": "5","GAS": "10.5,","HP": "238",
+    "MPG": "21.5","TRAN": "Auto","GRPH": "ALFA.jpg","COST": "50000.00",
+    "MSRP": "58500.00","HAND": "1","BACK": "1",
+    "DESC": "2016 Alfa Romeo 4C. 1.7L Turbocharged, 6 speed automatic."
+  },
+    {
+    "ID": "CHEVYx01","CARCLASS": "MUSCLE","MAN": "Chevrolet","MOD": "Camaro Z28","YEAR": "1969",
+    "SEAT": "4","DOOR": "2","CYL": "8","SAFE": "7","GAS": "18.5,","HP": "430",
+    "MPG": "12.5","TRAN": "Manual","GRPH": "CHEVY.jpg","COST": "29000.00",
+    "MSRP": "23000.00","HAND": "2","BACK": "0",
+    "DESC": "1969 Chevy Camaro. Excellent condition. Car restored this year."
+  },
+    {
+    "ID": "BENZx01","CARCLASS": "SUV","MAN": "Mercedes Benz","MOD": "GLC300","YEAR": "2016",
+    "SEAT": "5","DOOR": "4","CYL": "4","SAFE": "9","GAS": "17.4,","HP": "245",
+    "MPG": "24","TRAN": "Auto","GRPH": "BENZ.jpg","COST": "40000.00",
+    "MSRP": "38000.00","HAND": "3","BACK": "3",
+    "DESC": "2016 Mercedes GLC SUV. 2.0L turbocharged engine with 9 speed transmission."
+  },
+    {
+    "ID": "ASTONx01","CARCLASS": "Coupe","MAN": "Aston Martin","MOD": "Vanquish","YEAR": "2016",
+    "SEAT": "2","DOOR": "2","CYL": "12","SAFE": "7","GAS": "20.5,","HP": "568",
+    "MPG": "17.5","TRAN": "Auto","GRPH": "ASTON.jpg","COST": "265000.00",
+    "MSRP": "290000.00","HAND": "3","BACK": "1",
+    "DESC": "New 2016 Aston Martin Vanquish coupe. 570HP with 8 speed automatic transmission."
+  },
+    {
+    "ID": "DODGEx01","CARCLASS": "Coupe","MAN": "Dodge","MOD": "Challenger","YEAR": "2016",
+    "SEAT": "5","DOOR": "2","CYL": "8","SAFE": "7","GAS": "18.5,","HP": "375",
+    "MPG": "20.5","TRAN": "Manual","GRPH": "DODGE.jpg","COST": "32000.00",
+    "MSRP": "35000.00","HAND": "4","BACK": "4",
+    "DESC": "2016 Dodge Challenger. 8-cylinder engine w/ 375 HP."
+  },
+    {
+    "ID": "PORSCHEx02","CARCLASS": "SUV","MAN": "Porsche","MOD": "Macan S","YEAR": "2016",
+    "SEAT": "5","DOOR": "4","CYL": "4","SAFE": "8","GAS": "19.8,","HP": "250",
+    "MPG": "23.5","TRAN": "Auto","GRPH": "PORSCHE.jpg","COST": "47000.00",
+    "MSRP": "50000.00","HAND": "6","BACK": "3",
+    "DESC": "2016 Porsche Macan S. 4-cylinder turbo w/ 250 HP."
+  },
+    {
+    "ID": "CADx01","CARCLASS": "SUV","MAN": "Cadillac","MOD": "XT5","YEAR": "2016",
+    "SEAT": "5","DOOR": "4","CYL": "6","SAFE": "8","GAS": "19,","HP": "310",
+    "MPG": "23","TRAN": "Auto","GRPH": "CADILLAC.jpg","COST": "39000.00",
+    "MSRP": "43000.00","HAND": "6","BACK": "3",
+    "DESC": "2016 Cadillac XTS. 310 HP w/ 6-cylinder engine."
+  },
+    {
+    "ID": "LEXx01","CARCLASS": "Coupe","MAN": "Lexus","MOD": "RC","YEAR": "2016",
+    "SEAT": "4","DOOR": "2","CYL": "4","SAFE": "7","GAS": "17.3,","HP": "241",
+    "MPG": "27.4","TRAN": "Auto","GRPH": "LEXUS.jpg","COST": "38000.00",
+    "MSRP": "40000.00","HAND": "5","BACK": "3",
+    "DESC": "2016 Lexus RC coupe. 2.0L turbocharged w/ 241 HP."
+  },
+    {
+    "ID": "JAGx01","CARCLASS": "Sport","MAN": "Jaguar","MOD": "F-Type","YEAR": "2016",
+    "SEAT": "2","DOOR": "2","CYL": "6","SAFE": "7","GAS": "18.5,","HP": "340",
+    "MPG": "22","TRAN": "Manual","GRPH": "JAGUAR.jpg","COST": "55000.00",
+    "MSRP": "63000.00","HAND": "2","BACK": "2",
+    "DESC": "New 2016 Jaguar F-Type. 6 speed manual transmission w/ rear wheel drive."
+  },
+    {
+    "ID": "CHEVYx02","CARCLASS": "Sport","MAN": "Chevrolet","MOD": "Corvette","YEAR": "2016",
+    "SEAT": "2","DOOR": "2","CYL": "8","SAFE": "7","GAS": "18.5,","HP": "450",
+    "MPG": "23.5","TRAN": "Manual","GRPH": "CHEVY.jpg","COST": "50000.00",
+    "MSRP": "55000.00","HAND": "3","BACK": "5",
+    "DESC": "2016 Chevy Corvette. 7 speed manual transmission w/ 455 HP."
+  },
+    {
+    "ID": "NISSANx01","CARCLASS": "Sport","MAN": "Nissan","MOD": "370Z","YEAR": "2016",
+    "SEAT": "2","DOOR": "2","CYL": "6","SAFE": "6","GAS": "19,","HP": "332",
+    "MPG": "22","TRAN": "Manual","GRPH": "NISSAN.jpg","COST": "28000.00",
+    "MSRP": "32000.00","HAND": "6","BACK": "3",
+    "DESC": "BMW X4 in excellent condition. Less than 200 Km."
+  },
+    {
+    "ID": "PONTIACx01","CARCLASS": "Muscle","MAN": "Pontiac","MOD": "GTO","YEAR": "1969",
+    "SEAT": "2","DOOR": "2","CYL": "8","SAFE": "7","GAS": "20,","HP": "385",
+    "MPG": "16","TRAN": "Manual","GRPH": "PONTIAC.jpg","COST": "30000.00",
+    "MSRP": "18000.00","HAND": "6","BACK": "3",
+    "DESC": "Restored 1969 Pontiax GTO. 150,000 Km with new engine."
+  },
+    {
+    "ID": "EQUUSx01","CARCLASS": "Muscle","MAN": "Equus","MOD": "Bass 770","YEAR": "2014",
+    "SEAT": "2","DOOR": "2","CYL": "8","SAFE": "7","GAS": "22.5,","HP": "640",
+    "MPG": "22.5","TRAN": "Manual","GRPH": "EQUUS.jpg","COST": "200000.00",
+    "MSRP": "260000.00","HAND": "1","BACK": "2",
+    "DESC": "2014 Equus Bass 770. Iconic american muscle, modernized."
+  },
+    {
+    "ID": "FORDx02","CARCLASS": "Muscle","MAN": "Ford","MOD": "GT 40","YEAR": "1966",
+    "SEAT": "2","DOOR": "2","CYL": "8","SAFE": "7","GAS": "15.8,","HP": "490",
+    "MPG": "17","TRAN": "Manual","GRPH": "FORD.jpg","COST": "29000.00",
+    "MSRP": "20000.00","HAND": "6","BACK": "3",
+    "DESC": "1966 Ford GT 40. Restored for movie 'Fast Five'."
+  }
+]

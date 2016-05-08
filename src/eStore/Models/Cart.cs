@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace eStore.Models
 {
-    public class Tray
+    public class Cart
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
@@ -14,17 +14,7 @@ namespace eStore.Models
         [Required]
         public DateTime DateCreated { get; set; }
         [Required]
-        public int TotalCalories { get; set; }
-        [Required]
-        public int TotalCholesterol { get; set; }
-        [Required]
-        public decimal TotalFat { get; set; }
-        [Required]
-        public int TotalFibre { get; set; }
-        [Required]
-        public int TotalProtein { get; set; }
-        [Required]
-        public int TotalSalt { get; set; }
+        public int TotalCost { get; set; }
         [Column(TypeName = "timestamp")]
         [DatabaseGenerated(DatabaseGeneratedOption.Computed)]
         [MaxLength(8)]
